@@ -1,3 +1,3 @@
 # Stat-sheet
 
-![screenshot](img/screenshot.png)
+![screenshot](img/sc.png)
